@@ -98,7 +98,7 @@ def print_hangman(incorrect_attempts):
          |   |
          O   |
         /|\  |
-        / \  |
+        /    |
              |
         """,
         """
